@@ -1,0 +1,42 @@
+_repo: Ausgewahlte-Schriften_6645
+creator:
+  author:
+    agent_name: Kleist, Heinrich von
+    aliases:
+    - Von Kleist, Heinrich
+    - Kleist, Bernd Heinrich Wilhelm von
+    - Kleist, H. V. (Heinrich von)
+    birthdate: 1777
+    deathdate: 1811
+    gutenberg_agent_id: '2127'
+    url: http://www.gutenberg.org/2009/agents/2127
+    wikipedia: http://en.wikipedia.org/wiki/Heinrich_von_Kleist
+description: "\"St. Cecilia, or the Power of Music\" (German: Die heilige Cäcilie\
+  \ oder die Gewalt der Musik) is a short story by the German author Heinrich von\
+  \ Kleist. The story was written on October 27, 1810 as a gift for daughter of his\
+  \ friend Adam Müller, and was first published in November 1810 in Kleist's literary\
+  \ journal, the Berliner Abendblätter.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6645'
+  wikidata: Q302229
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'West Indies -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Germany -- Fiction'
+- !lcsh 'South America -- Fiction'
+- !lcsh 'Italy -- Fiction'
+tableOfContents: "Das Bettelweib von Locarno\r\nDas Erdbeben in Chili\r\nDer Findling\r\
+  \nDer Zweikampf\r\nDie heilige Cäcilie\r\nDie Marquise von O...\r\nDie Verlobung\
+  \ in St. Domingo\r\nGeistererscheinung\r\nMichael Kohlhaas"
+title: Ausgewählte Schriften
+url: http://www.gutenberg.org/ebooks/6645
+wikipedia:
+- https://de.wikipedia.org/wiki/Die_heilige_C%C3%A4cilie_oder_die_Gewalt_der_Musik
+- https://en.wikipedia.org/wiki/St._Cecilia,_or_the_Power_of_Music
